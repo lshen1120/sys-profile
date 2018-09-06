@@ -9,4 +9,5 @@ set ic                  "忽略查找大小写 ignore case
 set ruler               "显示光标位置
 set incsearch           "查找时实时高亮
 set showcmd            "右下显示未完成命令
+set tabstop=2
 
